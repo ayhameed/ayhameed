@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdulhameed
-- 👀 I’m interested in Java Script, Python, Wordpress and Linux System Administration 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on front end web projects 
-- 📫 How to reach me : hameedyunusa@outlook.com
+- 👀 I’m interested in Java Script, Python, Data Pipelining and Machine Learning
+- 🌱 I’m currently building ML models with  Python, Building Dashboards with React and simulating Space missions
+- 💞️ I’m looking to collaborate on exciting projects 
+- 📫 How to reach me: hameedyunusa@outlook.com
 
 <!---
 ayhameed/ayhameed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
