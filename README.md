@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Abdulhameed
-- 👀 I’m interested in Java Script, Python, Data Pipelining and Machine Learning
+- 👀 I’m interested in building Microservices
+- Space, AI and Machine Learning.
+- Javascript, Express, Node, MongoDB, Python, Data Pipelining and Machine Learning
 - 🌱 I’m currently building ML models with  Python, Building Dashboards with React and simulating Space missions
 - 💞️ I’m looking to collaborate on exciting projects 
 - 📫 How to reach me: hameedyunusa@outlook.com
