@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # 👋 Hi, I’m Abdulhameed
 
 ## 👀 About Me
