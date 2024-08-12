@@ -7,7 +7,7 @@ I'm a passionate developer with a strong interest in building data-driven soluti
 
 ## 🚧 Current Projects
 ### 🔥 Fire-Detection from Satellite Imagery Using Machine Learning
-- - Developed a machine learning model that processes satellite imagery, employing GANs for data augmentation to achieve a remarkable 90% reduction in model size and 96% decrease in dataset requirements. This optimization enables deployment in resource-constrained environments like spacecraft.
+- Developed a machine learning model that processes satellite imagery, employing GANs for data augmentation to achieve a remarkable 90% reduction in model size and 96% decrease in dataset requirements. This optimization enables deployment in resource-constrained environments like spacecraft.
   
 ### ☁️ Cloud Detection Model
 - Engineered a highly accurate (96%) cloud detection model utilizing a mere 10MB of data. Leveraged cloud IFass for enhanced performance.
@@ -47,6 +47,21 @@ I'm a passionate developer with a strong interest in building data-driven soluti
 ![Ansys STK Master](https://img.shields.io/badge/Ansys%20STK-%23FFCC33.svg?style=for-the-badge&logo=ansys&logoColor=black)
 ![Hadoop](https://img.shields.io/badge/Hadoop-%2322CC3E.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayhameed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayhameed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!---
 ayhameed/ayhameed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
