@@ -7,32 +7,31 @@ I'm a passionate developer with a strong interest in building data-driven soluti
 - ### Fire-Detection from Satellite Imagery using Machine Learning
 - - Developed a machine learning model that processes satellite imagery, employing GANs for data augmentation to achieve a remarkable 90% reduction in model size and 96% decrease in dataset requirements. This optimization enables deployment in resource-constrained environments like spacecraft.
   
-- ### Cloud Detection Model
-  -- Engineered a highly accurate (96%) cloud detection model utilizing a mere 10MB of data. Leveraged cloud IFass for enhanced performance.
+### Cloud Detection Model
+- Engineered a highly accurate (96%) cloud detection model utilizing a mere 10MB of data. Leveraged cloud IFass for enhanced performance.
 
-- ### Web Dashboards in React
--- Created interactive dashboards that boosted user engagement with data visualizations by 45%.
+### Web Dashboards in React
+- Created interactive dashboards that boosted user engagement with data visualizations by 45%.
   
-- ### Space Mission Optimization and System design
--- Successfully simulated a space mission using STK, optimizing communication channel switching by 26% through machine learning analysis.
+### Space Mission Optimization and System design
+- Successfully simulated a space mission using STK, optimizing communication channel switching by 26% through machine learning analysis.
 
-- ## 🚀 Expertise
--- **Backend Development**: Adept at building scalable and secure backend systems using technologies like Node.js, Express, and MongoDB.
--- **Data Science & Machine Learning**: Experienced in building and deploying ML models in Python libraries like TensorFlow and PyTorch (IBM Data Science Professional Certified).
--- **Space Mission and Systems Modelling**: Skilled in using Ansys STK to simulate complex space missions and leverage ML for deeper insights.
+## 🚀 Expertise
+- **Backend Development**: Adept at building scalable and secure backend systems using technologies like Node.js, Express, and MongoDB.
+- **Data Science & Machine Learning**: Experienced in building and deploying ML models in Python libraries like TensorFlow and PyTorch (IBM Data Science Professional Certified).
+- **Space Mission and Systems Modelling**: Skilled in using Ansys STK to simulate complex space missions and leverage ML for deeper insights.
 
-- ## Talks and Conferences 
--- UK Space Conference 2023 (Satellite Edge Computing for Real-Time Satellite Imagery Segmentation )
--- SatNex School V (Artificial Intelligence (AI) for Satellite Systems)
+## Talks and Conferences 
+- UK Space Conference 2023 (Satellite Edge Computing for Real-Time Satellite Imagery Segmentation )
+- SatNex School V (Artificial Intelligence (AI) for Satellite Systems)
 
-- ## 📫 Let's Connect
--- Website: https://www.ayhameed.space/
--- LinkedIn: https://uk.linkedin.com/in/abdulhameed-yunusa
--- Email: hameedyunusa@outlook.com
+## 📫 Let's Connect
+- Website: https://www.ayhameed.space/
+- LinkedIn: https://uk.linkedin.com/in/abdulhameed-yunusa
+- Email: hameedyunusa@outlook.com
 
 
 ## 🛠️ Technologies & Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2315AABF.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
